@@ -23,6 +23,6 @@ The student should create one R script called `run_analysis.R` that does the fol
 ## In this repository
 
 - `README.md` is this document. It serves as an introduction to the project, and the source data and explains the other contents of the repository.
-- `CodeBook.md` is the code book, which explains which steps, summaries and transformations were taken to produce the resulting tidy data set from the original source data. It also contains a list of all variable in the output data, along with their units and other relevant information.
+- `CodeBook.md` is the code book, which explains which steps, summaries and transformations were taken to produce the resulting tidy data set from the original source data. It also contains a list of all variables in the output data, along with their units and other relevant information.
 - `run_analysis.R` is the actual analysis code, written in R, which downloads the source data, applies all the necessary transformations as outlined in the code book, and produces the output file.
 - `tidy_data_output.txt` is the output file, generated according to the project tasks and tidy data principles by the `run_analysis.R` code.
