@@ -15,7 +15,7 @@
 ## in the file "tidy_data_output.txt"
 ##
 ## It can be read into R using the following command:
-## tiny_data <- read.table("tidy_data_output.txt", header=TRUE)
+## tidy_data <- read.table("tidy_data_output.txt", header=TRUE)
 ##
 
 
